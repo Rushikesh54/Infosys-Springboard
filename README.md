@@ -433,7 +433,6 @@ The Power BI workbook contains the complete interactive dashboard implementation
 - **Ajay Seepana**
 - **Rakesh Bommala**
 
-**Presentation Date:** 03 September 2026
 
 ---
 
